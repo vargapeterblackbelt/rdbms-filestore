@@ -1,0 +1,9 @@
+hu/blackbelt/rdbms/filestore/StoredFile.class
+hu/blackbelt/rdbms/TestService$1.class
+hu/blackbelt/rdbms/filestore/FileStoreException.class
+hu/blackbelt/rdbms/filestore/FilestorePreparedStatementCallback.class
+hu/blackbelt/rdbms/filestore/FilestoreHelper.class
+hu/blackbelt/rdbms/TestService.class
+hu/blackbelt/rdbms/filestore/DefaultFilestoreService.class
+hu/blackbelt/rdbms/filestore/FileEntity.class
+hu/blackbelt/rdbms/filestore/StoredFileRepository.class

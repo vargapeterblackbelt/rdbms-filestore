@@ -1,0 +1,8 @@
+/home/peter/git/common-rdbms-filestore/common-rdbms-filestore-regular/src/main/java/hu/blackbelt/rdbms/TestService.java
+/home/peter/git/common-rdbms-filestore/common-rdbms-filestore-regular/src/main/java/hu/blackbelt/rdbms/filestore/FileStoreException.java
+/home/peter/git/common-rdbms-filestore/common-rdbms-filestore-regular/src/main/java/hu/blackbelt/rdbms/filestore/FilestorePreparedStatementCallback.java
+/home/peter/git/common-rdbms-filestore/common-rdbms-filestore-regular/src/main/java/hu/blackbelt/rdbms/filestore/FileEntity.java
+/home/peter/git/common-rdbms-filestore/common-rdbms-filestore-regular/src/main/java/hu/blackbelt/rdbms/filestore/StoredFileRepository.java
+/home/peter/git/common-rdbms-filestore/common-rdbms-filestore-regular/src/main/java/hu/blackbelt/rdbms/filestore/StoredFile.java
+/home/peter/git/common-rdbms-filestore/common-rdbms-filestore-regular/src/main/java/hu/blackbelt/rdbms/filestore/FilestoreHelper.java
+/home/peter/git/common-rdbms-filestore/common-rdbms-filestore-regular/src/main/java/hu/blackbelt/rdbms/filestore/DefaultFilestoreService.java
